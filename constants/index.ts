@@ -43,11 +43,11 @@ export const IdentificationTypes = [
 export const Doctors = [
   {
     image: "/assets/images/dr-green.png",
-    name: "Raj Vikramaditya",
+    name: "John Green",
   },
   {
     image: "/assets/images/dr-cameron.png",
-    name: "Anushka Rao",
+    name: "Leila Cameron",
   },
   {
     image: "/assets/images/dr-livingston.png",
@@ -59,7 +59,7 @@ export const Doctors = [
   },
   {
     image: "/assets/images/dr-powell.png",
-    name: "Akanksha Awasthi",
+    name: "Jane Powell",
   },
   {
     image: "/assets/images/dr-remirez.png",
